@@ -1,0 +1,17 @@
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\bin\Debug\net10.0-windows\homework10.exe
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\bin\Debug\net10.0-windows\homework10.deps.json
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\bin\Debug\net10.0-windows\homework10.runtimeconfig.json
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\bin\Debug\net10.0-windows\homework10.dll
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\bin\Debug\net10.0-windows\homework10.pdb
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.Form1.resources
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.csproj.GenerateResource.cache
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.AssemblyInfoInputs.cache
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.AssemblyInfo.cs
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.csproj.CoreCompileInputs.cache
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.dll
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\refint\homework10.dll
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.pdb
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.genruntimeconfig.cache
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\ref\homework10.dll
+C:\Users\Валентина\Desktop\C#\homework10\homework10\homework10\obj\Debug\net10.0-windows\homework10.csproj.Up2Date
